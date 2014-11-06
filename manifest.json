@@ -1,5 +1,6 @@
 {
   "name": "TogetherJS",
+  "short_name": "TogetherJS",
   "version": "0.1.0",
   "manifest_version": 2,
   "description": "An extension to add TogetherJS to any site",
